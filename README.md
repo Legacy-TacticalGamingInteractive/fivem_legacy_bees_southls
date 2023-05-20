@@ -7,6 +7,7 @@ Enjoy!
 ---
 
 Support: https://discord.gg/tactical
+
 Create a #support ticket and ask for LEGACY regarding purchased map from Tebex.
 
 VERSION 1.0
