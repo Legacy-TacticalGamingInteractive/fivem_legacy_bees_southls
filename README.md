@@ -1,7 +1,7 @@
 # fivem_legacy_bees_southls
 FiveM Map South Los Santos Bee Colony
 
-Simple Illegal back alley Bee Colony
+A Simple Illegal Back Alley Bee Colony
 Enjoy!
 
 ---
