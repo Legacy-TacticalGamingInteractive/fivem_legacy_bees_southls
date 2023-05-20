@@ -29,7 +29,7 @@ To Install For FiveM:
 !) beehive pack MUST be started before the map in the server.cfg
 
 ---
-THIS IS A FREE RESOURCE. IF YOU SEE SOMEONE SELLING IT. F THEM UP AND REPORT EM'.
+THIS IS A FREE RESOURCE. IF YOU SEE SOMEONE SELLING IT. CALL EM' OUT.
 ---
 
 "In the city, respect is everything." - GTA2
