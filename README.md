@@ -13,7 +13,8 @@ VERSION 1.0
 MAY 20 2023.
 
 - Small illegal bee colony in South LS alleyway.
-- I've added working buzzing bee animation effects and sounds around the area for those with high particle fx settings in their FiveM graphics settings etc.
+- I've added working buzzing bee animation effects and sounds around the area for those with high
+particle fx settings in their FiveM graphics settings etc.
 - Requires Bee Props by Bzzz get it at: https://forum.cfx.re/t/props-beehive/5102500/ [free]
 
 ---
@@ -29,7 +30,8 @@ To Install For FiveM:
 !) beehive pack MUST be started before the map in the server.cfg
 
 ---
-THIS IS A FREE RESOURCE. IF YOU SEE SOMEONE SELLING IT. CALL EM' OUT.
+THIS IS A FREE RESOURCE. IF YOU SEE SOMEONE SELLING IT.
+CALL EM' OUT.
 ---
 
 "In the city, respect is everything." - GTA2
