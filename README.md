@@ -8,7 +8,7 @@ Enjoy!
 
 Support: https://discord.gg/tactical
 
-Create a #support ticket and ask for LEGACY regarding purchased map from Tebex.
+Create a #support ticket and ask for LEGACY regarding FiveM map
 
 VERSION 1.0
 MAY 20 2023.
